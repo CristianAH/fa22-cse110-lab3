@@ -2,8 +2,8 @@
 name: Bug report
 about: Let us know something is wrong.
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: CristianAH
 
 ---
 
