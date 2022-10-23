@@ -1,14 +1,14 @@
 ---
 name: Feature request
 about: Can we add a replay/auto loop for the video or sound effect?
-title: ''
+title: Looping
 labels: enhancement, help wanted, question
 assignees: CristianAH
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+I don't want the video to stop playing after it finishes, can you add autoloop feature.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
