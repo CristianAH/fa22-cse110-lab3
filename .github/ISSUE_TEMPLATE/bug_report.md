@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Let us know something is wrong.
-title: ''
+title: There is a bug in my code
 labels: bug
 assignees: CristianAH
 
@@ -12,13 +12,13 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Go to the program
+2. Click on run
+3. Scroll down to the terminal
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Creates a run time error
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
